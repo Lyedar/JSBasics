@@ -6,7 +6,29 @@
 The purpose of this day project is to familiarize yourself with the basic manipulation methods for both arrays and objects. You will also practice creating variables and functions using logic and the content provided during class.
 
 ##Directions
-Fork and clone this repository. Complete all of the exercises. When you have finished, push your code into GitHub.
+Fork and clone this repository. Complete all of the exercises in the basics.js file. When you have finished, push your code into GitHub.
+
+##Testing
+
+To run the tests you must install mocha the testing program and use npm to install dependencies. In your terminal cd to the project directory type.
+
+```
+npm install
+```
+
+and when that is finished
+
+```
+npm install -g mocha 
+```
+
+now you can run the tests by typing
+
+```
+mocha
+```
+
+in the project directory.
 
 ##Copyright
 
